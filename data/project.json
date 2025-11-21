@@ -1,21 +1,27 @@
 {
-  "users": [],
   "publish": {
-    "publishPagesApp": false,
-    "publishSHA": "",
-    "publishISODate": ""
+    "publish_pages_app": true,
+    "publish_sha": "",
+    "publish_iso_date": ""
   },
+  "users": [],
   "project": {
-    "title": "Zora Neale Hurston’s Works Progress Administration Recordings",
-    "description": "",
-    "language": "",
-    "slug": "",
+    "github_org": "fgarcia-eng",
+    "is_private": false,
+    "title": "Reading Transfeminine Representation in Ripstein’s El lugar sin límites",
+    "description": "This AVAnnotate project offers an interactive, annotated edition of Arturo Ripstein’s El lugar sin límites that examines the film’s portrayal of transfemininity within the political and cultural climate of 1970s Mexico. The exhibit begins with an introductory essay that situates the film in a broader genealogy of gender variance, visibility, and violence, drawing on queer theory, trans studies, and intersectional media analysis. Users can then navigate a series of timestamped annotations that highlight key moments in the film’s construction of gender and desire, including close readings of shot composition, lighting, sound, performance, and narrative framing. These annotations also integrate historical context related to nationalism, machismo, nota roja sensationalism, and emerging queer social movements, emphasizing how La Manuela’s visibility is shaped by—and constrained within—broader ideological regimes. Through curated tags, thematic clusters, and audiovisual analysis, the project invites viewers to explore how the film oscillates between spectacle and subjectivity, offering a layered framework for understanding transfeminine representation in Mexican cinema.",
+    "language": "en",
+    "slug": "transfemininity-el-lugar-sin-limites",
+    "creator": "fgarcia-eng",
     "authors": "",
-    "mediaPlayer": "universal",
-    "autoPopulateHomePage": "true",
-    "additionalUsers": [],
-    "": {},
-    "createdAt": "",
-    "updatedAt": ""
+    "media_player": "avannotate",
+    "auto_populate_home_page": true,
+    "additional_users": [],
+    "tags": {
+      "tagGroups": [],
+      "tags": []
+    },
+    "created_at": "2025-11-21T00:03:44.046Z",
+    "updated_at": "2025-11-21T00:03:44.046Z"
   }
 }
