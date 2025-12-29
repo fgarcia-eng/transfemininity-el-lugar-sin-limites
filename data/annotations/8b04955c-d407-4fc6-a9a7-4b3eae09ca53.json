@@ -1,5 +1,52 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 54,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "When La Manuela explains, “Yo bailo cuando están todos bien cuetes; así triunfo más todavía,” she articulates an acute awareness of how gender legibility operates in El Olivo. Alcohol does not simply animate the fiesta; it loosens the enforcement of the sex/gender system. In moments of collective drunkenness, the rigid discourses that otherwise name and discipline her—"
+            },
+            {
+              "text": "joto, puto, marica, degenerado",
+              "italic": true
+            },
+            {
+              "text": "—temporarily lose their regulatory force. The same men who will later invoke these terms to police and expel her difference become, for a brief interval, receptive spectators."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The fiesta thus becomes the stage on which a transfeminine figure is momentarily centered, embraced, and spectacularized. As Manuela dances flamenco with camp flourish, the town’s masculine order suspends itself just enough to allow admiration, desire, and applause to circulate without immediate punishment. Lo marginal ocupa el centro. Her success—"
+            },
+            {
+              "text": "triunfo",
+              "italic": true
+            },
+            {
+              "text": "—is not accidental but strategic: she performs at precisely the moment when heterosexual masculinity is most unstable, softened by intoxication and collective affect."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yet this recognition remains conditional. It does not erase the naming practices that mark her as abject; it merely delays them. The same system that loosens under alcohol will later reassert itself through ridicule, exposure, and violence. This moment reveals how transfeminine visibility in the film is produced not through acceptance, but through a fragile suspension of norms—one that allows Manuela to be celebrated as a woman only when the town’s mechanisms of gender regulation are temporarily out of order."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "d8f87cd9-e508-4004-958d-76f893073b84"
+    }
+  ],
   "event_id": "6a48dc33-5c9f-4c71-baf8-5c8df919735b",
   "set": "Queer body and desire as spectacle",
   "source_id": "65dcf3a3-590e-44a6-88cd-d89b53149d7e"
