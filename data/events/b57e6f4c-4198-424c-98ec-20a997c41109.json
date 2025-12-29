@@ -3,7 +3,7 @@
     "2c1bcaa7-f05e-48c9-968b-3e3699882bad": {
       "label": "",
       "is_offline": false,
-      "file_type": "Audio",
+      "file_type": "Video",
       "file_url": "https://www.youtube.com/watch?v=6T8ObxhK6Mg",
       "duration": 0,
       "caption_set": [],
@@ -28,6 +28,6 @@
   ],
   "created_at": "2025-12-29T17:22:54.395Z",
   "created_by": "fgarcia-eng",
-  "updated_at": "2025-12-29T17:23:17.945Z",
+  "updated_at": "2025-12-29T17:24:01.479Z",
   "updated_by": "fgarcia-eng"
 }
