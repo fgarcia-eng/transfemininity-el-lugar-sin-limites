@@ -1,5 +1,36 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 234,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "When La Manuela hears Pancho’s truck and whispers, "
+            },
+            {
+              "text": "“Ay, es que estoy tan nerviosa,”",
+              "italic": true
+            },
+            {
+              "text": " she names herself in the feminine—"
+            },
+            {
+              "text": "nerviosa",
+              "italic": true
+            },
+            {
+              "text": "—a seemingly small grammatical choice that carries enormous weight. This moment exemplifies what this project calls mediated self-representation: the emergence of a transfeminine voice within a cinematic system that simultaneously enables and constrains her intelligibility. Throughout the 1970s, transfeminine figures in Mexican cultural production began to appear as speaking subjects, but always under conditions shaped by spectacle, violence, and cisgender authorship. Here, La Manuela’s feminine self-naming articulates a fragile, precarious subjectivity—one that asserts itself even as it is threatened. Her fear is not only of Pancho’s imminent violence, but of a social order in which transfemininity becomes thinkable only at the edge of danger. By using the feminine to describe her own affective state, La Manuela briefly “glitches” the sex/gender system: she speaks herself into being through language, even as the world around her seeks to deny that possibility—la Japonesita keeps calling her papá (father). This utterance is both self-affirmation and a fleeting instance of visibility that reveals how transfeminine subjectivity enters the cultural archive in fragments, gestures, and whispered self-declarations."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "967507ba-9fc2-441b-bc8e-c4b41c2057c1"
+    }
+  ],
   "set": "Default",
   "event_id": "b57e6f4c-4198-424c-98ec-20a997c41109",
   "source_id": "2c1bcaa7-f05e-48c9-968b-3e3699882bad"
