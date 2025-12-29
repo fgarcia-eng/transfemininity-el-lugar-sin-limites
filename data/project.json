@@ -1,1 +1,55 @@
-{"publish":{"publish_pages_app":true,"publish_sha":"","publish_iso_date":"","publish_static_site":false},"users":[{"login_name":"fgarcia-eng","avatar_url":"https://avatars.githubusercontent.com/u/228952504?v=4","admin":true}],"project":{"github_org":"fgarcia-eng","is_private":false,"title":"Reading Transfeminine Representation in Ripstein’s El lugar sin límites","description":"This AVAnnotate project offers an interactive, annotated edition of Arturo Ripstein’s El lugar sin límites, examining the film’s portrayal of transfemininity within the political and cultural climate of 1970s Mexico. The exhibit opens with an introductory essay that situates the film within a broader genealogy of gender variance, visibility, and violence, drawing on queer theory, trans studies, and intersectional media analysis. The project then brings together a curated set of clips—sourced from YouTube—including pivotal scenes from the film, interviews with cultural commentators, and reflections from both the director and the guionista. Users can explore timestamped annotations for each clip, highlighting key moments in the film’s construction of gender and desire through close readings of shot composition, lighting, sound, performance, and narrative framing. These annotations also incorporate historical context related to nationalism, machismo, nota roja sensationalism, and emerging queer social movements, emphasizing how La Manuela’s visibility is shaped by—and constrained within—broader ideological regimes. Through curated tags, thematic clusters, and audiovisual analysis, the project invites viewers to engage the oscillation between spectacle and subjectivity that defines transfeminine representation in Mexican cinema.","language":"en","slug":"transfemininity-el-lugar-sin-limites","creator":"fgarcia-eng","authors":"","media_player":"avannotate","auto_populate_home_page":true,"additional_users":[],"tags":{"tagGroups":[],"tags":[]},"created_at":"2025-11-21T00:03:44.046Z","updated_at":"2025-12-29T17:53:25.109Z","generate_pages_site":true},"annotations":{},"events":{},"eventOrder":[],"pages":{"e7d8800d-faab-4a4c-ab8d-6bfd1a8def7f":{"content":[],"created_at":"2025-11-21T00:03:44.073Z","created_by":"fgarcia-eng","title":"Reading Transfeminine Representation in Ripstein’s El lugar sin límites","updated_at":"2025-11-21T00:03:44.073Z","updated_by":"fgarcia-eng","autogenerate":{"enabled":true,"type":"home"}}},"pageOrder":["e7d8800d-faab-4a4c-ab8d-6bfd1a8def7f"]}
+{
+  "publish": {
+    "publish_pages_app": true,
+    "publish_sha": "",
+    "publish_iso_date": "",
+    "publish_static_site": false
+  },
+  "users": [
+    {
+      "login_name": "fgarcia-eng",
+      "avatar_url": "https://avatars.githubusercontent.com/u/228952504?v=4",
+      "admin": true
+    }
+  ],
+  "project": {
+    "github_org": "fgarcia-eng",
+    "is_private": false,
+    "title": "Reading Transfeminine Representation in Ripstein’s El lugar sin límites",
+    "description": "This AVAnnotate project offers an interactive, annotated edition of Arturo Ripstein’s El lugar sin límites, examining the film’s portrayal of transfemininity within the political and cultural climate of 1970s Mexico. The exhibit opens with an introductory essay that situates the film within a broader genealogy of gender variance, visibility, and violence, drawing on queer theory, trans studies, and intersectional media analysis. The project then brings together a curated set of clips—sourced from YouTube—including pivotal scenes from the film, interviews with cultural commentators, and reflections from both the director and the guionista. Users can explore timestamped annotations for each clip, highlighting key moments in the film’s construction of gender and desire through close readings of shot composition, lighting, sound, performance, and narrative framing. These annotations also incorporate historical context related to nationalism, machismo, nota roja sensationalism, and emerging queer social movements, emphasizing how La Manuela’s visibility is shaped by—and constrained within—broader ideological regimes. Through curated tags, thematic clusters, and audiovisual analysis, the project invites viewers to engage the oscillation between spectacle and subjectivity that defines transfeminine representation in Mexican cinema.",
+    "language": "en",
+    "slug": "transfemininity-el-lugar-sin-limites",
+    "creator": "fgarcia-eng",
+    "authors": "",
+    "media_player": "avannotate",
+    "auto_populate_home_page": true,
+    "additional_users": [],
+    "tags": {
+      "tagGroups": [],
+      "tags": []
+    },
+    "created_at": "2025-11-21T00:03:44.046Z",
+    "updated_at": "2025-12-29T17:55:56.923Z",
+    "generate_pages_site": true
+  },
+  "annotations": {},
+  "events": {},
+  "eventOrder": [],
+  "pages": {
+    "e7d8800d-faab-4a4c-ab8d-6bfd1a8def7f": {
+      "content": [],
+      "created_at": "2025-11-21T00:03:44.073Z",
+      "created_by": "fgarcia-eng",
+      "title": "Reading Transfeminine Representation in Ripstein’s El lugar sin límites",
+      "updated_at": "2025-11-21T00:03:44.073Z",
+      "updated_by": "fgarcia-eng",
+      "autogenerate": {
+        "enabled": true,
+        "type": "home"
+      }
+    }
+  },
+  "pageOrder": [
+    "e7d8800d-faab-4a4c-ab8d-6bfd1a8def7f"
+  ]
+}
