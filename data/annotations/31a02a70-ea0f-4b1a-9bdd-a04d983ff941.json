@@ -22,6 +22,29 @@
       ],
       "tags": [],
       "uuid": "117c8b98-c3a6-4a2c-85c7-4d3455168ba9"
+    },
+    {
+      "start_time": 141,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This reaction must be situated within the context of late Francoist Spain, where censorship, moral conservatism, and authoritarian regulation of sexuality remained deeply entrenched, even as the regime approached its end. In this climate, the onscreen kiss was not read as narrative gesture or melodramatic device, but as a provocation—an intolerable visualization of queer desire that violated the tacit separation between what could be known and what could be publicly shown. The scandal underscores how "
+            },
+            {
+              "text": "El lugar sin límites",
+              "italic": true
+            },
+            {
+              "text": " made visible not only transfeminine desire, but also the fragility of heteromasculine coherence when confronted with recognition."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "6e2fe63c-eb9d-4b8a-9e4a-11f1b3d23724"
     }
   ],
   "set": "Default",
