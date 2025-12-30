@@ -53,7 +53,7 @@
           "italic": true
         },
         {
-          "text": ", I employ José Esteban Muñoz’s (2009) notion of queer ephemera—the fleeting gestures, affects, and traces that persist even when visibility is denied—and Legacy Russell’s (2020) concept of the glitch, while also framing this project as a genealogical inquiry into the film archive that recovers the histories of trans* representation independently from dominant frameworks of homosexuality. Russell’s “glitch” is understood here not as a technological error but as a cultural and representational rupture that exposes the instability of normative gender regimes. By combining these frameworks, I can examine how La Manuela articulates her subjectivity within layers of mediation—narrative conventions, melodramatic codes, and the institutional frameworks of 1970s Mexican cinema—that both enable and constrain visibility. In this film, transfeminine legibility emerges not as a fixed identity but through traces and ruptures: moments when gender variance slips beyond the scripts that would contain it, becoming hypervisible, precarious, and affectively charged. Attending to these ephemerality and glitches highlights the ways the film negotiates trans* presence, showing how La Manuela speaks and acts from within a cultural landscape structured by nationalism, moral anxiety, and cinematic spectacle (sex/gender system). This approach situates the film within the broader visual and cultural genealogy of late-1970s Mexico, where queer visibility appeared unevenly, fleetingly, and always through negotiation between expression and constraint.    "
+          "text": ", I employ José Esteban Muñoz’s (2019) notion of queer ephemera—the fleeting gestures, affects, and traces that persist even when visibility is denied—and Legacy Russell’s (2020) concept of the glitch, while also framing this project as a genealogical inquiry into the film archive that recovers the histories of trans* representation independently from dominant frameworks of homosexuality. Russell’s “glitch” is understood here not as a technological error but as a cultural and representational rupture that exposes the instability of normative gender regimes. By combining these frameworks, I can examine how La Manuela articulates her subjectivity within layers of mediation—narrative conventions, melodramatic codes, and the institutional frameworks of 1970s Mexican cinema—that both enable and constrain visibility. In this film, transfeminine legibility emerges not as a fixed identity but through traces and ruptures: moments when gender variance slips beyond the scripts that would contain it, becoming hypervisible, precarious, and affectively charged. Attending to these ephemerality and glitches highlights the ways the film negotiates trans* presence, showing how La Manuela speaks and acts from within a cultural landscape structured by nationalism, moral anxiety, and cinematic spectacle (sex/gender system). This approach situates the film within the broader visual and cultural genealogy of late-1970s Mexico, where queer visibility appeared unevenly, fleetingly, and always through negotiation between expression and constraint.    "
         }
       ]
     },
@@ -170,6 +170,82 @@
       "type": "paragraph",
       "children": [
         {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "References"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Muñoz, J. E. (2019). "
+        },
+        {
+          "text": "Cruising utopia: The then and there of queer futurity",
+          "italic": true
+        },
+        {
+          "text": " (10th Anniversary Edition). New York University Press."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Rubin, G. S. (1996). The traffic in women: Notes on the ‘political economy’ of sex. In Joan Wallach Scott. "
+        },
+        {
+          "text": "Feminism and history.",
+          "italic": true
+        },
+        {
+          "text": " (pp. 105–151). Oxford University Press"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Russell, L. (2020). "
+        },
+        {
+          "text": "Glitch feminism: A manifesto.",
+          "italic": true
+        },
+        {
+          "text": " Verso Books."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Williams, R. (1977). "
+        },
+        {
+          "text": "Marxism and literature.",
+          "italic": true
+        },
+        {
+          "text": " Oxford University Press."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
           "text": "\n"
         }
       ]
@@ -183,6 +259,6 @@
   "slug": "introduction-la-manuela-and-trans-represent",
   "created_at": "2025-12-29T16:50:02.561Z",
   "created_by": "fgarcia-eng",
-  "updated_at": "2025-12-29T19:55:04.712Z",
+  "updated_at": "2025-12-30T18:02:15.208Z",
   "updated_by": "fgarcia-eng"
 }
