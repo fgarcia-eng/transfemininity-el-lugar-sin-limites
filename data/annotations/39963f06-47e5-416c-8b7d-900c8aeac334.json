@@ -22,6 +22,29 @@
       ],
       "tags": [],
       "uuid": "09af0b1a-0bf8-44e3-8dea-e31f3558569c"
+    },
+    {
+      "start_time": 90,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Ripstein suggests, is inseparable from the film’s historical singularity: "
+            },
+            {
+              "text": "El lugar sin límites",
+              "italic": true
+            },
+            {
+              "text": " would become one of the first Mexican films to place a transfeminine character like La Manuela at its center. \"El lugar sin límites se film en situaciones precarias\", he says. Yet this emergence occurred under severe material and institutional constraints. Ripstein describes a production environment shaped by cultural politics that deprioritized projects deemed morally or socially risky: limited funding, lack of technical resources, and restricted access to equipment all conditioned what could be filmed and how. The producer’s insistence on casting alternative actors further underscores the instability of the project, as commercial viability repeatedly came into tension with representational risk."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "4706700b-3e48-4f1f-9d43-e71186a8ac84"
     }
   ],
   "set": "Default",
