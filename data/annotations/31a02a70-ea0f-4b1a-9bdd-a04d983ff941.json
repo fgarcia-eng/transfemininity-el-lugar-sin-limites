@@ -1,5 +1,29 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 116,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "In this portion of the interview, Arturo Ripstein recalls the reception of "
+            },
+            {
+              "text": "El lugar sin límites",
+              "italic": true
+            },
+            {
+              "text": " at the San Sebastián International Film Festival (Edition 26), where the film—and particularly the kiss between La Manuela and Pancho—provoked intense backlash from both attendants and critics. Ripstein notes that the controversy extended beyond the screen: the director, actors, and crew were subjected to public scrutiny and hostility, revealing how the film’s challenge to sexual and gender norms exceeded cinematic boundaries and entered the realm of social offense."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "117c8b98-c3a6-4a2c-85c7-4d3455168ba9"
+    }
+  ],
   "set": "Default",
   "event_id": "e8ee0342-e683-48bb-a77b-bcb300da1bfb",
   "source_id": "1e7b50a6-bc90-46f6-92a5-65e9e0aa7410"
