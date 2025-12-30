@@ -151,7 +151,8 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "Notes"
+          "text": "Notes",
+          "bold": true
         }
       ]
     },
@@ -194,7 +195,8 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "References"
+          "text": "References",
+          "bold": true
         }
       ]
     },
@@ -275,6 +277,6 @@
   "slug": "introduction-la-manuela-and-trans-represent",
   "created_at": "2025-12-29T16:50:02.561Z",
   "created_by": "fgarcia-eng",
-  "updated_at": "2025-12-30T18:07:05.856Z",
+  "updated_at": "2025-12-30T18:09:31.367Z",
   "updated_by": "fgarcia-eng"
 }
