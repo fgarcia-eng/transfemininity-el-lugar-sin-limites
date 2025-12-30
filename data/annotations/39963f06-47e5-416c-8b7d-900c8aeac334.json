@@ -1,5 +1,29 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 45,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "In reflecting on the making of "
+            },
+            {
+              "text": "El lugar sin límites",
+              "italic": true
+            },
+            {
+              "text": ", Arturo Ripstein emphasizes that the film emerged from a convergence of contingencies rather than from a stable or inevitable production path. The project began with the manuscript of José Donoso’s novel, which at one point was slated to be adapted by Luis Buñuel—the Spanish filmmaker whose international reputation by the 1960s and 70s had already secured his place as a central figure in modern cinema. Buñuel ultimately chose not to direct the adaptation, a decision that left the project suspended until Ripstein took it up under markedly different conditions."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "09af0b1a-0bf8-44e3-8dea-e31f3558569c"
+    }
+  ],
   "set": "Default",
   "event_id": "f15e458b-a6bd-4ebd-93b2-dd9b050ac08c",
   "source_id": "803fd071-3c9f-44ca-a3fd-567866fee51c"
