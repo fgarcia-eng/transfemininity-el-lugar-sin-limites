@@ -170,7 +170,12 @@
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "category": "Opening scene",
+          "tag": "The brothel as character"
+        }
+      ],
       "uuid": "b12b03de-62c8-4d67-ac0b-8b53597117ba"
     }
   ],
