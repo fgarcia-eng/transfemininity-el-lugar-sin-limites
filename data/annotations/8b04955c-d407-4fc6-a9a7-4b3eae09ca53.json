@@ -108,7 +108,12 @@
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "category": "Queer body and desire as spectacle",
+          "tag": "Queer body as spectacle"
+        }
+      ],
       "uuid": "342835d0-c86c-401d-ac8c-f9c68302ff27"
     }
   ],
